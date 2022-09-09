@@ -1,0 +1,1 @@
+the executer is in x64\Debug\wamcpl---wolfy-mac-cycle-programing-language.exe
